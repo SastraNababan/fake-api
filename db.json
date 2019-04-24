@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "fullName": "Genna Arnli",
+      "phoneNumber": "5278765234",
+      "email": "garnli0@photobucket.com",
+      "gender": "female"
+    },
+    {
+      "fullName": "Lioni",
+      "phoneNumber": "085278765234",
+      "email": "lioni0@mail.com",
+      "gender": "female",
+      "id": 2
+    }
+  ]
+}
